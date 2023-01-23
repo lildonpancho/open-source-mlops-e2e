@@ -1,5 +1,5 @@
 [core]
     remote = chrisremote
 ['remote "chrisremote"']
-    url = azure://CONTAINER_NAME/
-    account_name = ACCOUNT_NAME
+    url = azure://my-dvc-remote/
+    account_name = christsa
